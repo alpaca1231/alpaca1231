@@ -1,4 +1,4 @@
-# kazHack　🤔
+# KazHack　🤔
 
 ![](https://komarev.com/ghpvc/?username=KazukiAmatatsu)
 
