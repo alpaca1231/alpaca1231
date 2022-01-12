@@ -1,6 +1,6 @@
 # KazHack　🤔
 
-![](https://komarev.com/ghpvc/?username=KazukiAmatatsu)
+![](https://komarev.com/ghpvc/?username=KazukiAmatatsu&color=brightgreen)
 
 ## Introduction
 高専を卒業し、新卒でNTTに入社。これまで約4年間通信設備の構築や保守 設計業務などを担当した。
