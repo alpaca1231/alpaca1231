@@ -1,9 +1,10 @@
-## Frontend Engineer 🤔
+## About
+Hi, I'm a web engineer. 🙌
+
 ![](https://komarev.com/ghpvc/?username=KazukiAmatatsu&color=brightgreen)
 
-
-### Skill
-[![My Skills](https://skillicons.dev/icons?i=nextjs,react,nuxt,vue,astro,ts,js,html,css,scss,supabase,firebase,tailwind,styledcomponents,jest,vercel,vscode,figma,&theme=dark&perline=6)](https://skillicons.dev)
+## Likes
+[![My Skills](https://skillicons.dev/icons?i=ts,react,nextjs,vercel&theme=dark)](https://skillicons.dev)
 
 ### Status
 [![](https://raw.githubusercontent.com/KazukiAmatatsu/KazukiAmatatsu/main/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
